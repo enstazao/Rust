@@ -1,0 +1,1 @@
+/home/jadi/Documents/Rust/Sir_Nauman_Azam_Udemy_Course/Section1_Introduction_Stuff_and_Course_Resources/learning_rust/target/release/learning_rust: /home/jadi/Documents/Rust/Sir_Nauman_Azam_Udemy_Course/Section1_Introduction_Stuff_and_Course_Resources/learning_rust/src/main.rs
