@@ -1,0 +1,10 @@
+Rust Modules
+3 basic components
+1. Packages
+2. Crates
+3. Modules
+
+A package is created using the command of cargo new 
+A package may contain one or more crates 
+Each providing a set of functionality and allow you to build test and share crates 
+this is manage through cargo commands
